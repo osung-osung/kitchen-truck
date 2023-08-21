@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kitchen-truck/static/css/main.073c9b0a.css",
-    "main.js": "/kitchen-truck/static/js/main.79619c76.js",
+    "main.js": "/kitchen-truck/static/js/main.09d7cac6.js",
     "static/js/787.9be0298f.chunk.js": "/kitchen-truck/static/js/787.9be0298f.chunk.js",
     "index.html": "/kitchen-truck/index.html",
     "main.073c9b0a.css.map": "/kitchen-truck/static/css/main.073c9b0a.css.map",
-    "main.79619c76.js.map": "/kitchen-truck/static/js/main.79619c76.js.map",
+    "main.09d7cac6.js.map": "/kitchen-truck/static/js/main.09d7cac6.js.map",
     "787.9be0298f.chunk.js.map": "/kitchen-truck/static/js/787.9be0298f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.79619c76.js"
+    "static/js/main.09d7cac6.js"
   ]
 }
